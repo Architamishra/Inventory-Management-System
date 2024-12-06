@@ -50,4 +50,6 @@ A professional billing system provides accurate invoices for each order, complet
 
 ![image alt](https://github.com/Architamishra/Inventory-Management-System/blob/c948b32548e47a84462fdd031f03250fd6a409e8/Img1.png)
 
+![image alt](https://github.com/Architamishra/Inventory-Management-System/blob/c908c76fb547ecd7ff0b48e30bc1cfc7e620c0bf/Img2.png)
+
 
