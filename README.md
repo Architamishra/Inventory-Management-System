@@ -48,5 +48,6 @@ Customers are notified of product availability and changes instantly.
 Billing System:
 A professional billing system provides accurate invoices for each order, complete with product details and pricing breakdowns.
 
+![image alt](https://github.com/Architamishra/Inventory-Management-System/blob/c948b32548e47a84462fdd031f03250fd6a409e8/Img1.png)
 
 
